@@ -1,0 +1,40 @@
+C:\Users\Baudouin\AppData\Local\Temporary Projects\AppliDrago\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Baudouin\AppData\Local\Temporary Projects\AppliDrago\obj\x86\Debug\AppliDrago.Login.resources
+C:\Users\Baudouin\AppData\Local\Temporary Projects\AppliDrago\obj\x86\Debug\AppliDrago.NvlCo.resources
+C:\Users\Baudouin\AppData\Local\Temporary Projects\AppliDrago\obj\x86\Debug\AppliDrago.Properties.Resources.resources
+C:\Users\Baudouin\AppData\Local\Temporary Projects\AppliDrago\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Baudouin\AppData\Local\Temporary Projects\AppliDrago\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Baudouin\AppData\Local\Temporary Projects\AppliDrago\bin\Debug\AppliDrago.exe
+C:\Users\Baudouin\AppData\Local\Temporary Projects\AppliDrago\bin\Debug\AppliDrago.pdb
+C:\Users\Baudouin\AppData\Local\Temporary Projects\AppliDrago\obj\x86\Debug\AppliDrago.Menu.resources
+C:\Users\Baudouin\AppData\Local\Temporary Projects\AppliDrago\obj\x86\Debug\AppliDrago.exe
+C:\Users\Baudouin\AppData\Local\Temporary Projects\AppliDrago\obj\x86\Debug\AppliDrago.pdb
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\obj\x86\Debug\AppliDrago.exe
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\obj\x86\Debug\AppliDrago.pdb
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\bin\Debug\AppliDrago.exe
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\bin\Debug\AppliDrago.pdb
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\obj\x86\Debug\AppliDrago.Login.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\obj\x86\Debug\AppliDrago.Menu.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\obj\x86\Debug\AppliDrago.NvlCo.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\obj\x86\Debug\AppliDrago.Properties.Resources.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago\AppliDrago\obj\x86\Debug\AppliDrago.Appli1.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\AppliDrago.exe
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\AppliDrago.pdb
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\bin\Debug\AppliDrago.exe
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\bin\Debug\AppliDrago.pdb
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\AppliDrago.Appli1.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\AppliDrago.Login.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\AppliDrago.Menu.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\AppliDrago.NvlCo.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\AppliDrago.Properties.Resources.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\AppliDrago.Appli2.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\AppliDrago.Appli3.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\AppliDrago.Appli4.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Debug\AppliDrago.Chargement.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\bin\Debug\MySqlBackup.dll

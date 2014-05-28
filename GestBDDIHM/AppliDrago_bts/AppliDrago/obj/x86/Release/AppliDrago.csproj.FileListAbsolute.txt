@@ -1,0 +1,17 @@
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\bin\Release\AppliDrago.exe
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\bin\Release\AppliDrago.pdb
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\AppliDrago.Appli1.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\AppliDrago.Appli2.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\AppliDrago.Appli3.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\AppliDrago.Appli4.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\AppliDrago.Chargement.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\AppliDrago.Login.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\AppliDrago.Menu.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\AppliDrago.NvlCo.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\AppliDrago.Properties.Resources.resources
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\AppliDrago.exe
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\obj\x86\Release\AppliDrago.pdb
+C:\Users\Kyma\Documents\Visual Studio 2010\Projects\AppliDrago_bts\AppliDrago\bin\Release\MySqlBackup.dll
