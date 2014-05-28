@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <meta charset=utf-8" />
+
+    <title>{% block title %}Application Rent Car{% endblock %}</title>
+
+    {% stylesheets '@SdzRentCarBundle/Resources/public/css/bootstrap.css'%}
+      <link rel="stylesheet" href="{{ asset_url }}" type="text/css" media="all"/>
+    {% endstylesheets %}
+  </head>
+
+  <body>
+    <div class="container">
+     <div id="header" class="hero-unit">
+        <h1>Application Rent Car</h1>
+     </div>
+        <div class="row">
+            <div id="menu" class="span3">
+                <h4>Espace accueil</h4>
+                <ul> 
+                    <li><a href="{{ path('sdzRentCarAppli_accueil')}}">Accueil</a></li>
+                </ul>
+                <h4>Espace location</h4>
+                <ul>
+                    <li><a href="{{ path('sdzRentCarAppli_voir') }}">Liste des véhicules disponibles</a></li>
+                    <li><a href="{{ path ('sdzRentCarAppli_louer') }}">Louer un véhicule</a></li>
+                    <li><a href="{{ path ('sdzRentCarAppli_voirLouer') }}">Liste des véhicules louées</a></li>
+                </ul>
+        </div>
+        <div id="content" class="span9">
+          {% block body %}
+          {% endblock %}
+        </div>
+      </div>
+
+      <hr>
+
+      <footer>
+          <center><p>Baudouin © 2013 and beyond.</p></center>
+      </footer>
+    </div>
+  </body>
+</html>

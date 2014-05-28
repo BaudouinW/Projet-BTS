@@ -1,0 +1,30 @@
+{# empty Twig template #}
+{% extends "SdzRentCarBundle::layout.html.twig" %}
+
+{% block title %}
+  Liste - {{ parent() }}
+{% endblock %}
+
+{% block RentCarAppli_body %}
+  
+  <strong> <h1 style="font-size: 24px;">
+     Véhicules disponible
+    </h1></strong>
+ 
+      
+<div class="well">
+       <ul>
+        {% for voiture in voiture %}
+          <li><strong>Nom</strong>: {{voiture.voitureNom}}<br/>
+              <strong>Marque</strong>: {{voiture.marque}}<br/>
+              <strong>Boîte de Vitesse</strong>: {{voiture.boiteVitesse}}<br/>
+              <strong>Carburant</strong>: {{voiture.typeEssence}}<br/>
+              <strong>Nombre de kilomètre</strong>: {{voiture.nombreKilometre}}</br>
+              <strong>Description</strong>: {{voiture.description}}<br/>
+          </li></br>
+        {% endfor %}
+      </ul>
+    
+  </div>
+
+{% endblock %}

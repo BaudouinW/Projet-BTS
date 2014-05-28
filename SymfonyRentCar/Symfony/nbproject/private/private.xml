@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/src/Sdz/RentCarBundle/Entity/VoitureLouer.php</file>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/src/Sdz/RentCarBundle/Form/VoitureLouerType.php</file>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/src/Sdz/RentCarBundle/Controller/RentCarController.php</file>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/app/Resources/views/Layout.html.twig</file>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/src/Sdz/RentCarBundle/Resources/config/routing.yml</file>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/src/Sdz/RentCarBundle/Entity/VoitureRepository.php</file>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/src/Sdz/RentCarBundle/Resources/views/RentCarViews/listeDispo.html.twig</file>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/src/Sdz/RentCarBundle/Resources/views/RentCarViews/listeLouer.html.twig</file>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/src/Sdz/RentCarBundle/Entity/VoitureLouerRepository.php</file>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/src/Sdz/RentCarBundle/Form/VoitureType.php</file>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/app/config/config.yml</file>
+            <file>file:/C:/Program%20Files%20(x86)/EasyPHP-12.1/www/Symfony/src/Sdz/RentCarBundle/Entity/Voiture.php</file>
+        </group>
+    </open-files>
+</project-private>

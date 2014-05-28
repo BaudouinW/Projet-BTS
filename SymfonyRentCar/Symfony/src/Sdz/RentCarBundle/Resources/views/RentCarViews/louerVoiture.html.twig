@@ -1,0 +1,14 @@
+{# empty Twig template #}
+{% extends "SdzRentCarBundle::layout.html.twig" %}
+{% block body %}
+
+<h2>Emprunter un véhicule</h2>
+  {% include "SdzRentCarBundle:RentCarViews:formulaireLouer.html.twig" %}
+ 
+  <p>
+      <a href="{{ path('sdzRentCarAppli_voir') }}" class="btn">
+      <i class="icon-chevron-left"></i>
+      << Retour à la liste des véhicules
+      </a>
+  </p>
+{% endblock %}

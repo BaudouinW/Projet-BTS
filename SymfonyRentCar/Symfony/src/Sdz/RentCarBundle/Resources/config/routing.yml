@@ -1,0 +1,28 @@
+sdzRentCarAppli_accueil:
+    pattern:  /RentCarAppli
+    defaults: { _controller: SdzRentCarBundle:RentCar:index }
+    
+sdzRentCarAppli_voir:
+    pattern: /RentCarAppli/voiture
+    defaults: {_controller: SdzRentCarBundle:RentCar:listeDispo }
+    
+sdzRentCarAppli_voirLouer:
+    pattern: /RentCarAppli/voirLouer
+    defaults: {_controller: SdzRentCarBundle:RentCar:listeLouer }
+
+sdzRentCarAppli_ajouter:
+    pattern: /RentCarAppli/ajouter
+    defaults: {_controller: SdzRentCarBundle:RentCar:ajouterVoiture }
+    
+sdzRentCarAppli_louer:
+    pattern: /RentCarAppli/louer
+    defaults: {_controller: SdzRentCarBundle:RentCar:louer }
+
+       
+sdzRentCarAppli_supprimerLocation:
+    pattern: /RentCarAppli/supprimer/{id}
+    defaults: {_controller: SdzRentCarBundle:RentCar:supprimer }
+    requirements:
+        id: \d+
+       
+    

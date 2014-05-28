@@ -1,0 +1,18 @@
+{# empty Twig template #}
+{% extends "SdzRentCarBundle::layout.html.twig" %}
+{% block body %}
+
+<h2>Ajouter une voiture</h2>
+  {% include "SdzRentCarBundle:RentCarViews:formulaire.html.twig" %}
+  <p>
+     Attention : cette voiture sera ajoutée directement
+     sur la visionneuse après validation du formulaire.
+  </p>
+  
+  <p>
+      <a href="{{ path('sdzRentCarAppli_voir') }}" class="btn">
+      <i class="icon-chevron-left"></i>
+      << Retour à l'accueil
+      </a>
+  </p>
+{% endblock %}

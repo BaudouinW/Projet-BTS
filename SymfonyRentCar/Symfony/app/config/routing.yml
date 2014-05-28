@@ -1,0 +1,4 @@
+sdz_rent_car:
+    resource: "@SdzRentCarBundle/Resources/config/routing.yml"
+    prefix:   /
+

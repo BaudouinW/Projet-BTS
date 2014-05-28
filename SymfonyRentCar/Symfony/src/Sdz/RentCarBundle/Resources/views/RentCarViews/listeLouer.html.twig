@@ -1,0 +1,31 @@
+{# empty Twig template #}
+{% extends "SdzRentCarBundle::layout.html.twig" %}
+
+{% block title %}
+  Liste des véhicules louée - {{ parent() }}
+{% endblock %}
+
+{% block RentCarAppli_body %}
+  
+  <strong> <h1 style="font-size: 24px;">
+      Liste des véhicules louée
+    </h1></strong>
+      
+<div class="well">
+    <ul>
+        {% for voitureLouer in voitureLouer %}
+          <li><strong>Véhicule louée</strong>: {{voitureLouer.voiture.getVoitureNom()}}<br/>
+              <strong>Nom de l'employé</strong>: {{voitureLouer.nomEmploye}}<br/>
+              <strong>Adresse email</strong>: {{voitureLouer.email }}<br/>
+              <strong>Service</strong>: {{voitureLouer.service}}</br>
+              <strong>Raison de l'emprunt</strong>: {{voitureLouer.raisonEmprunt}}</br>
+              <strong>Date de début de location</strong>: {{voitureLouer.dateDebut|date("d/m/Y")}}</br>
+              <strong>Date de fin de location</strong>: {{voitureLouer.dateFin|date("d/m/Y")}}</br>
+              {#<a href="{{ path('sdzRentCarAppli_supprimerLocation', {'id': voitureLouer.id}) }}" class="btn"><i class="icon-edit"></i>Terminer la location</a>#}
+          </li></br>
+        {% endfor %}
+      </ul>
+    
+  </div>
+
+{% endblock %}
